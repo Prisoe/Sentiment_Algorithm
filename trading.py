@@ -11,7 +11,7 @@ from finbert_utils import estimate_sentiment
 
 
 # API Info
-API_KEY = "PKKL2RGL9V5WA6I4TGC9" 
+API_KEY = "#"  Add your Api Key
 API_SECRET = "Vm3ul2E5w8GCN5S8UhMUCf0hyMV9orL5rSUkXNs6" 
 BASE_URL = "https://paper-api.alpaca.markets"
 
